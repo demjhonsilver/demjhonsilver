@@ -15,7 +15,7 @@ ReactJS and VueJS
   
 ## Projects
 
-- [Video Player ](https://github.com/demjhons/javascript-video-player)
+- [Video Player ](https://github.com/demjhons)
 
 ## Web Frameworks
 <span style="display: inline;">
