@@ -10,7 +10,7 @@
 </div>
 
 ## Skills 
- PHP, RUBY, Laravel, Javascript, ReactJS and VueJS, Node.JS
+ PHP, RUBY, Laravel, JavaScript, ReactJS and VueJS, Node.JS
   
   
 ## Projects
