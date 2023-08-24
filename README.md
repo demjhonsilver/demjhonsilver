@@ -15,7 +15,7 @@ ReactJS and VueJS
   
 ## Projects
 
-- [Video Player ](https://github.com/demjhons)
+- [Mirax- React video player ]([https://github.com/demjhons](https://github.com/demjhons/mirax-player))
 
 ## Web Frameworks
 <span style="display: inline;">
