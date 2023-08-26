@@ -15,4 +15,4 @@
   
 ## Projects
 
-- [Mirax - React video player ](https://github.com/demjhonsilver/mirax-player)
+- [Mirax - Light-weight Video player for React and Vue ](https://github.com/demjhonsilver/mirax-player)
