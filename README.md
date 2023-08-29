@@ -15,4 +15,4 @@
   
 ## Projects
 
-- [Mirax - customize color video player for React, Vue, Angular and Svelte ](https://github.com/demjhonsilver/mirax-player)
+- [Mirax player - video player supported in typescript and javascript for React, Vue, Angular and Svelte ](https://github.com/demjhonsilver/mirax-player)
