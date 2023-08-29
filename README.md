@@ -15,4 +15,4 @@
   
 ## Projects
 
-- [Mirax player - a video player supports typescript and javascript for React, Vue, Angular and Svelte ](https://github.com/demjhonsilver/mirax-player)
+- [Mirax player - a free video player supports typescript and javascript for React, Vue, Angular and Svelte ](https://github.com/demjhonsilver/mirax-player)
