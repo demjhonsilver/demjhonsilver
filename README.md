@@ -11,10 +11,11 @@ Project
 
 
 
-  <p align="center"> <b>Skills:</b>
+  <p align="center"> <b>Skills:</b></div>
   
+  <p align="center">
     PHP, JavaScript , TypeScript , Ruby, NodeJS, React, Vue, Angular, and Svelte</p>
-</div>
+  </div>
    
 </div>
   
