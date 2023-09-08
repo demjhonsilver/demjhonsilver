@@ -3,7 +3,10 @@
  
   <p align="center">  I'm <b> Demjhon Silver </b>- Be productive and Creative </p>
 
+#Projects
 
+ I build this project for javascript and typescript that runs to any libraries and frameworks.
+- [Mirax Player](https://github.com/demjhonsilver/mirax-player) Mirax Player is a video player and embedding videos for React, Vue, Angular, and Svelte. That can embed videos like Youtube/Shorts and Vimeo
 
 </div>
    
