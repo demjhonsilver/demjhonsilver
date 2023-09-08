@@ -10,8 +10,10 @@ Project
 - [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a video player and embedding videos for React, Vue, Angular, and Svelte. That can embed videos like Youtube/Shorts and Vimeo
 
 
-Skills:
-  <p align="center">PHP, JavaScript , TypeScript , Ruby, NodeJS, React, Vue, Angular, and Svelte</p>
+
+  <p align="center"> <b>Skills:</b>
+  
+    PHP, JavaScript , TypeScript , Ruby, NodeJS, React, Vue, Angular, and Svelte</p>
 </div>
    
 </div>
