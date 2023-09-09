@@ -1,4 +1,4 @@
-<h1>My Skills:</h1>
+<h4>My Skills: PHP, Ruby, JavaScript, TypeScript</h4>
 
    <h2>Back-end:</h2>
 
