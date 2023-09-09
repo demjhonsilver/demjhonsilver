@@ -5,6 +5,7 @@
  
 <h3>Project</h3>
  I build this project for javascript and typescript that runs to any libraries and frameworks.
+ 
 - [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a powerful free video player for React, Vue, Angular, and Svelte that can embed videos from platforms like TikTok, YouTube/Shorts, and Vimeo.
 
 
