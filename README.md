@@ -1,12 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center; background-color: #ffffff; padding: 20px; border-radius: 5px;">
-  <div>
-    
- <h1>My Skills:</h1>
+<h1>My Skills:</h1>
 
- -----------
    <h2>Back-end:</h2>
 
-   
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
@@ -16,7 +11,4 @@ Project
 - [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a powerful free video player for React, Vue, Angular, and Svelte that can embed videos from platforms like TikTok, YouTube/Shorts, and Vimeo.
 
 
-  </div>
-   
-</div>
   
