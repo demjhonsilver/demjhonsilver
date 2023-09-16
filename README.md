@@ -5,7 +5,7 @@
  
 <h3>Project</h3>
 
-- [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a powerful free and open source video player for React, Vue, Angular, and Svelte.
+- [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a free and open source video player for React, Vue, Angular, and Svelte.
 
 
   
