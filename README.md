@@ -10,7 +10,7 @@
 - [Aziwork](https://github.com/demjhonsilver/aziwork) is a simple HTTP client library that serves as a wrapper for making HTTP requests.
 
 <h3>Skills</h3>
- PHP, RUBY, JavaScript, TypeScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte
+ PHP, RUBY, JavaScript, TypeScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte.
 
   <h3>Cloud Hosting</h3>
 
