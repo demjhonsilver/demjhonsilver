@@ -12,5 +12,18 @@
 <h3>Skills</h3>
  PHP, RUBY, JavaScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte
 
+ <h3>Tech</h3>
+ ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+ ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+  <h3>Cloud Tech</h3>
+
+ ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+ 
+
 
   
