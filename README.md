@@ -11,9 +11,6 @@
 
 <h3>Skills</h3>
  PHP, RUBY, JavaScript, TypeScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte
- <h3>Tech</h3>
-
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
   <h3>Cloud Hosting</h3>
 
