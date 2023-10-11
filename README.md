@@ -1,9 +1,3 @@
-<h3>Projects</h3>
-
-- [Mirax Player](https://github.com/demjhonsilver/mirax-player) is a free and open source video player for React, Vue, Angular, and Svelte. It can embed videos from platforms like Facebook, TikTok, YouTube/Shorts, Twitter, Vimeo and Dailymotion. 
-
-- [Aziwork](https://github.com/demjhonsilver/aziwork) is a simple HTTP client library that serves as a wrapper for making HTTP requests.
-
 <h3>Skills</h3>
  PHP, RUBY, JavaScript, TypeScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte.
 
