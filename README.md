@@ -1,5 +1,5 @@
 <h3>Skills</h3>
- PHP, JavaScript, Laravel, React and Vue.
+ PHP, Ruby, JavaScript, Laravel, React and Vue.
 
   <h3>Cloud Computing</h3>
 
