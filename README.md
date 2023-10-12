@@ -1,5 +1,5 @@
 <h3>Skills</h3>
- PHP, RUBY, JavaScript, TypeScript, Laravel, Rails, Bootstrap, Tailwind, Bulma, React, Vue, Angular and Svelte.
+ PHP, JavaScript, Laravel, React and Vue.
 
   <h3>Cloud Computing</h3>
 
