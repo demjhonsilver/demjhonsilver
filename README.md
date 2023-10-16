@@ -1,4 +1,5 @@
 <p align="center">
+      <img src="https://www.demjhonsilver.com/img/laravel.png" alt="Logo" width="70" height="70"/>
       <img src="https://www.demjhonsilver.com/img/react.png" alt="Logo" width="70" height="70"/>
 </p>
 
