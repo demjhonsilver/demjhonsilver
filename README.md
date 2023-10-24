@@ -6,7 +6,7 @@
 
 - 👏 Hi, I’m Demjhon Silver
 - 💻 I’m interested in PHP, JavaScript, React, Vue and Ruby.
-- 🐾 I’m currently learning for mobile app with React Native❤
+- 🐾 I’m currently learning for mobile app with React Native & Flutter 📱
 - 💁 If you'd like to work together to enhance any of the repositories I've created, don't hesitate to reach out – consider it your playground!
   
  <h3>OS</h3>
