@@ -10,7 +10,7 @@
 - 💁 If you'd like to work together to enhance any of the repositories I've created, don't hesitate to reach out – consider it your playground!
 
 
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demjhonsilver&hide=html,css,scss,sass=html&theme=neon&langs_count=6&layout=compact" /> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=blue-green&show_icons=true)
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demjhonsilver&hide=html,css,scss,sass=html&theme=midnight-purple&langs_count=6&layout=compact" /> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=blue-green&show_icons=true)
 </p>
 
 
