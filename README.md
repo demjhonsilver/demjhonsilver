@@ -8,6 +8,8 @@
 - 💻 I’m interested in PHP, JavaScript, TypeScript, NodeJS, Laravel, NextJS, NuxtJS, React, Vue and Ruby.
 - 🐾 I’m currently learning for mobile app with React Native & Flutter 📱
 - 💁 If you'd like to work together to enhance any of the repositories I've created, don't hesitate to reach out – consider it your playground!
+
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=demjhonsilver&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&theme=radical#gh-dark-mode-only)](https://github.com/demjhonsilver/demjhonsilver#gh-dark-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=demjhonsilver&langs_count=20&hide_border=true&layout=compact&bg_color=00000000&theme=radical#gh-dark-mode-only)](https://github.com/demjhonsilver/demjhonsilver#gh-dark-mode-only)
   
  <h3>OS</h3>
 
