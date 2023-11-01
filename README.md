@@ -18,5 +18,4 @@
 
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=neon&show_icons=true)
-
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=blue-green&show_icons=true)
