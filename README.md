@@ -13,7 +13,4 @@
 
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
- 
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=demjhonsilver&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&theme=radical#gh-dark-mode-only)](https://github.com/demjhonsilver/demjhonsilver#gh-dark-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=demjhonsilver&langs_count=20&hide_border=true&layout=compact&bg_color=00000000&theme=radical#gh-dark-mode-only)](https://github.com/demjhonsilver/demjhonsilver#gh-dark-mode-only)
 
-  
