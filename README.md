@@ -1,8 +1,4 @@
-<p align="center">
-      <img src="https://www.demjhonsilver.com/img/laravel.png" alt="Logo" width="70" height="70"/>
-      <img src="https://www.demjhonsilver.com/img/react.png" alt="Logo" width="70" height="70"/>
-      <img src="https://www.demjhonsilver.com/img/vue.png" alt="Logo" width="70" height="70"/>
-</p>
+
 
 - 👏 Hi, I’m Demjhon Silver
 - 💻 I’m interested in PHP, JavaScript, NodeJS, Laravel, NextJS, NuxtJS, React, Vue and Ruby.
