@@ -1,8 +1,8 @@
 
 
 - 👏 Hi, I’m Demjhon Silver
-- 💻 I’m interested in PHP, JavaScript, NodeJS, Laravel, NextJS, NuxtJS, React, Vue and Ruby.
-- 🐾 I’m currently learning for mobile app with React Native & Flutter 📱
+- 💻 I’m interested in PHP, Ruby, Dart, JavaScript, NodeJS, Laravel, React and Vue.
+- 🐾 I’m currently learning for mobile app with Flutter 📱
 - 💁 If you'd like to work together to enhance any of the repositories I've created, don't hesitate to reach out – consider it your playground!
 
 
