@@ -1,7 +1,6 @@
 
 
 - 💻 I’m interested in PHP, Ruby, JavaScript and TypeScript.
-- 🎧 I used Vue, React, Svelte, and Angular.
 - 🍉 I used Linux and Windows.
 - 🤠 I will try my best.
  
