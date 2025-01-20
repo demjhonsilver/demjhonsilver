@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Demjhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=dark&show_icons=true)
+![Demjhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=demjhonsilver&theme=vue&show_icons=true)
 <!--
 **demjhonsilver/demjhonsilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
